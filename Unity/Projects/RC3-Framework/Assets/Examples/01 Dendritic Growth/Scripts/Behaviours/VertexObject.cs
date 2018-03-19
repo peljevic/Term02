@@ -27,6 +27,12 @@ namespace RC3.Unity.Examples.DendriticGrowth
         [SerializeField] private bool _visited = false;
         private int _index;
 
+        private int _s01;
+        private int _s02;
+        private int _s03;
+        private int _s04;
+        private int _s05;
+        private int _s06;
 
 
 
@@ -66,6 +72,13 @@ namespace RC3.Unity.Examples.DendriticGrowth
             }
 
             Status = (VertexStatus)Index;
+
+            if (index == 1) _s01++;
+            if (index == 2) _s02++;
+            if (index == 3) _s03++;
+            if (index == 4) _s04++;
+            if (index == 5) _s05++;
+            if (index == 6) _s06++;
 
             // if (index == 0) Visited = false;
         }

@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{7CA0D2FF-D666-E484-4F72-C85E0D0989AC}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Framework/Interfaces/GUIScript.cs">
+    <Files>
+      <File FileName="Assets/Examples/01 Dendritic Growth/Scripts/Behaviours/NouraGrowthManager.cs" Line="19" Column="26" />
+      <File FileName="Assets/Examples/01 Dendritic Growth/Scripts/Behaviours/VertexObject.cs" Line="77" Column="36" />
+      <File FileName="Assets/Framework/Interfaces/GUIScript.cs" Line="73" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.RC3-Framework PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

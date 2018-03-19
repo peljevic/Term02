@@ -21,6 +21,14 @@ namespace RC3.Unity.Examples.DendriticGrowth
         private int _debugCount = 0;
         private int _counter = 1;
 
+        private int _s01;
+        private int _s02;
+        private int _s03;
+        private int _s04;
+        private int _s05;
+        private int _s06;
+
+
         void Start()
         {
             _graph = _grid.Graph; //Noura
@@ -100,7 +108,7 @@ namespace RC3.Unity.Examples.DendriticGrowth
 
         ///TODO
         /// 1 Tiles more considerate about their neighbours
-        /// 2 
+        /// 2 Add counters for gui
 
         private void UpdateGrowth()
         {
