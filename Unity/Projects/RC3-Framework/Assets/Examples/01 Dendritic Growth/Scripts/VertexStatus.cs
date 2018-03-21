@@ -11,6 +11,7 @@ namespace RC3.Unity.Examples.DendriticGrowth
     {
        Default,
         Tile1,
+        Source,
         Tile2,
         Tile3,
         Tile4,
@@ -18,7 +19,8 @@ namespace RC3.Unity.Examples.DendriticGrowth
         Tile6,
         Tile7,
         Tile8,
-        Visited,
-        Source
+        Tile9,
+        Visited
+      //  ,Source
     }
 }

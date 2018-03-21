@@ -72,14 +72,14 @@ namespace RC3.Unity.Examples.DendriticGrowth
             }
 
             Status = (VertexStatus)Index;
-
+            /*
             if (index == 1) _s01++;
             if (index == 2) _s02++;
             if (index == 3) _s03++;
             if (index == 4) _s04++;
             if (index == 5) _s05++;
             if (index == 6) _s06++;
-
+*/
             // if (index == 0) Visited = false;
         }
 

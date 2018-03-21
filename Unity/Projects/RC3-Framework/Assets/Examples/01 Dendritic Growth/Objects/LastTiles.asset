@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 263d186bd9248ec4880afac112db4051, type: 3}
+  m_Name: LastTiles
+  m_EditorClassIdentifier: 
+  _items:
+  - {fileID: 10207, guid: 0000000000000000e000000000000000, type: 0}
+  - {fileID: 4300000, guid: 8cb417c5e30c343a5a23ab25f39ff356, type: 3}
+  - {fileID: 4300000, guid: ca7e47d1baaa148c7b195e15a3f511d3, type: 3}
+  - {fileID: 4300000, guid: fc552aecc780d4c64921a617f1c34309, type: 3}
+  - {fileID: 4300000, guid: 8bdbd3ef94347421bb86d62450e2a166, type: 3}
+  - {fileID: 4300000, guid: bd55d4953f7f5473c8d747cf1ef4d66b, type: 3}
+  - {fileID: 4300000, guid: 8dae277ea18cb4f0a94b4559e913c946, type: 3}
+  - {fileID: 4300000, guid: 5dd1222325aa242d6a00df47ec0e36fa, type: 3}
+  - {fileID: 4300000, guid: f0bb81aa5763c477c85ed160a6819527, type: 3}
+  - {fileID: 4300000, guid: daa02429833a34b8ca4a1729ed655c48, type: 3}
+  - {fileID: 4300000, guid: f00b333526160474b84708112e420127, type: 3}
+  - {fileID: 4300000, guid: f00b333526160474b84708112e420127, type: 3}

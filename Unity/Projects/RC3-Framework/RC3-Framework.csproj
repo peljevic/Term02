@@ -113,7 +113,9 @@
   <ItemGroup>
     <Compile Include="Assets\Examples\01 Dendritic Growth\Scripts\Behaviours\CorrectedTiles.cs" />
     <Compile Include="Assets\Examples\01 Dendritic Growth\Scripts\Behaviours\CubeGraphCreator.cs" />
+    <Compile Include="Assets\Examples\01 Dendritic Growth\Scripts\Behaviours\Desperados.cs" />
     <Compile Include="Assets\Examples\01 Dendritic Growth\Scripts\Behaviours\DirectedGrowthManager.cs" />
+    <Compile Include="Assets\Examples\01 Dendritic Growth\Scripts\Behaviours\GrowthLast.cs" />
     <Compile Include="Assets\Examples\01 Dendritic Growth\Scripts\Behaviours\GrowthManager.cs" />
     <Compile Include="Assets\Examples\01 Dendritic Growth\Scripts\Behaviours\GrowthNew.cs" />
     <Compile Include="Assets\Examples\01 Dendritic Growth\Scripts\Behaviours\NouraGrowthManager.cs" />

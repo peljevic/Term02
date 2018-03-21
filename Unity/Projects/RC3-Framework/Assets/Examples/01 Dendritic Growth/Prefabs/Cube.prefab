@@ -53,7 +53,6 @@ MeshRenderer:
   m_Enabled: 1
   m_CastShadows: 1
   m_ReceiveShadows: 1
-  m_DynamicOccludee: 1
   m_MotionVectors: 1
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
@@ -69,7 +68,6 @@ MeshRenderer:
   m_PreserveUVs: 0
   m_IgnoreNormalsForChartDetection: 0
   m_ImportantGI: 0
-  m_StitchLightmapSeams: 0
   m_SelectedEditorRenderState: 3
   m_MinimumChartSize: 4
   m_AutoUVMaxDistance: 0.5
@@ -113,11 +111,12 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _vertex: 0
   _sources: {fileID: 11400000, guid: 8454b97e8854eba4d9a868121b5b1166, type: 2}
-  _meshes: {fileID: 11400000, guid: 993eb5433a11306429b5636ee3af13b9, type: 2}
+  _meshes: {fileID: 11400000, guid: fca3eabed9c5649a08fb1f8de0283c90, type: 2}
   _materials: {fileID: 11400000, guid: 58c72752934ac6f40864f1875550469d, type: 2}
   _scales: {fileID: 11400000, guid: 28764bbc5ae12334294ce25b8f0dad0c, type: 2}
   _rigidbody: {fileID: 54998194631829310}
   _vList: []
+  _visited: 0
 --- !u!135 &135627866370195620
 SphereCollider:
   m_ObjectHideFlags: 1
